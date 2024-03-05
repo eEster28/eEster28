@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning: test jest
 - 📫 How to reach me: estermouramg@gmail.com
 - 😄 Pronouns: ela/dela
 

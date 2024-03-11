@@ -2,7 +2,7 @@
 # Olá👋, Bem-vindo ao meu perfil do GitHub
 
 <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&color=000000&size=27&center=false&lines=Meu+nome+é+Ester+Moura...;Tenho+19+anos+...;Estudante+de+ADS"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&color=6B238E&size=27&center=false&lines=Meu+nome+é+Ester+Moura...;Tenho+19+anos+...;Estudante+de+ADS"/>
 
  <p>- <i> Sou estudante de análise e desenvolvimento de sistemas, hoje estou finalizando formação de desenvolvedora full stack.  </i></p>
 

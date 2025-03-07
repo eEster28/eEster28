@@ -2,7 +2,7 @@
 # Olá👋, Bem-vindo ao meu perfil do GitHub
 
 <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&color=7B51FF&size=27&center=false&lines=Meu+nome+é+Ester+Moura...;Tenho+19+anos+...;Estudante+de+ADS"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&color=7B51FF&size=27&center=false&lines=Meu+nome+é+Ester+Moura...;Tenho+20+anos+...;Estudante+de+ADS"/>
 
  <p>- <i> Sou estudante de análise e desenvolvimento de sistemas, hoje estou finalizando formação de desenvolvedora full stack.  </i></p>
 
@@ -18,6 +18,8 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Django](https://img.icons8.com/?size=100&id=XPdRFanRZtNK&format=png&color=000000)&nbsp;
+
 
 ### Contacts:
 
